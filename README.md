@@ -1,4 +1,4 @@
 wmf-kanban
 ==========
 
-Dummy project for huboard issue tracking
+Dummy project for [huboard](https://huboard.com/) issue tracking.
